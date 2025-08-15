@@ -76,4 +76,4 @@ Thanks to the dataset provider for the publicly available earthquake data used i
 
 ## 🔗 Links
 
-👉 *Click [here](url) to see my dashboard*
+👉 *Click [here](https://public.tableau.com/app/profile/dasolami.elugoke/viz/Tableau_CP1/Dashboard1?publish=yes) to see my dashboard*
